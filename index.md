@@ -10,9 +10,13 @@
 ###### 依然是希望的季节
 ###### 春天依然向往
 
-### Markdown
+### 我的过去
+###### 我曾经固执的认为，忘记过去就是背叛，但是我现在却发现我背叛了过去，因为我不再能想起来穿开裆裤的的快乐。
+``` 
+1. ### 2008年10月至2009年8月，郑州捷安网络科技有限公司Python,C程序员。
+在这里我接触到了我的编程语言python，我很爱它，她开启了我编程之旅，我基本掌握了自己的吃饭工具。从而开启我人生中的程序员模式，从此也开启了我的沉默之旅。我在这儿我也学会了火车的一些东西了解了火车的基本运行原理
+```
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
