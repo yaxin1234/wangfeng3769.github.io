@@ -3,12 +3,12 @@
 ## 这就是我的样子
 ![大学的样子](https://mynotbook.herokuapp.com/static/images/avatar.png)
 
---春天依然是那个季节
---那个时间
---只不过是过去和现在的区别
---依然是播种的时节
---依然是希望的季节
---春天依然向往
+春天依然是那个季节
+那个时间
+只不过是过去和现在的区别
+依然是播种的时节
+依然是希望的季节
+春天依然向往
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
