@@ -1,5 +1,7 @@
-## 欢迎来到我的网站[mynotbook.herokuapp.com](https://mynotbook.herokuapp.com) ##
+## 欢迎来到我的网站[mynotbook.herokuapp.com](https://mynotbook.herokuapp.com) 
 ##这就是我的样子
+![大学的样子](https://mynotbook.herokuapp.com/static/images/avatar.png)
+
 You can use the [查看我的代码仓库](https://github.com/wangfeng3769/wangfeng3769.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
